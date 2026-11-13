@@ -1,0 +1,9 @@
+filtro,removidos,restantes
+registros lidos,0,587187
+data inválida,0,587187
+proteína ou meta ausente,7338,579849
+"meta fora de [20, 400] g",2070,577779
+proteína ≤ 0 ou > 500 g,7367,570412
+"calorias fora de [800, 6000] (registro incompleto)",93106,477306
+"duplicata (pessoa, data)",0,477306
+pessoas com menos de 14 dias válidos,16145,461161

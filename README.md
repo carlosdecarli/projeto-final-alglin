@@ -7,7 +7,7 @@ Estados do dia: **Abaixo**, **Dentro** ou **Acima** da faixa em torno da meta de
 ## Dados
 
 - **MyFitnessPal Food Diary Dataset** (Kaggle): 587.187 registros diários de 9.896 pessoas, set/2014 a abr/2015. ZIP ≈ 168 MB, TSV ≈ 2,15 GB.
-- Link da base no Kaggle: _(preencher com o link "Abrir a base no Kaggle" do roteiro)_
+- Link da base no Kaggle: https://www.kaggle.com/datasets/zvikinozadze/myfitnesspal-dataset?resource=download
 - Origem: Weber e Achananuparp, *Insights from Machine-Learned Diet Success Prediction*.
 - A base bruta **não** vai para o Git (está no `.gitignore`).
 
